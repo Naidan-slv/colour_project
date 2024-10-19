@@ -1,0 +1,1 @@
+This small project is a React application that allows users to change the color of a square by typing in a color name or hex code.
